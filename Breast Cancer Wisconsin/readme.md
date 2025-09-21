@@ -6,7 +6,7 @@ It includes the dataset, preprocessing information, trained models (XGBoost form
 ---
 
 ## Directory Structure
-
+```
 Breast Cancer Wisconsin/
 │
 ├── data/
@@ -21,7 +21,7 @@ Breast Cancer Wisconsin/
 │ └── wisconsin.xgb.ubj # XGBoost model (binary UBJ format)
 │
 ├── wisconsin.ipynb # Notebook with EDA, training, and evaluation
-
+```
 
 ---
 
