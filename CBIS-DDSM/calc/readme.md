@@ -6,7 +6,7 @@ It includes YOLO preprocessing, trained classifier weights, comparative evaluati
 ---
 
 ## Directory Structure
-
+```
 calc/
 │
 ├── data/
@@ -48,7 +48,7 @@ calc/
 │ └── YOLO_model_train.ipynb # YOLO training notebook
 │
 └── readme.md # Project documentation
-
+```
 
 ---
 
