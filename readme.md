@@ -30,7 +30,7 @@ project/
 │   ├── home.py                         # Dashboard entrypoint
 │   └── ...
 │
-└── .ipynb_checkpoints/                  # Jupyter checkpoints
+
 ```
 
 ---
