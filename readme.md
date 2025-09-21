@@ -32,7 +32,7 @@ project/
 └── .ipynb_checkpoints/ # Jupyter checkpoints
 
 
-## 🚀 Features
+##  Features
 
 - **Imaging Branch (CBIS-DDSM)**:
   - YOLO lesion detection for **calcifications** and **masses**.
@@ -59,7 +59,7 @@ project/
 
 ---
 
-## 📊 Datasets
+##  Datasets
 
 | Dataset    | Type        | Description                              | Location                          |
 |------------|-------------|------------------------------------------|-----------------------------------|
