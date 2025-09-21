@@ -1,0 +1,34 @@
+Evaluation Metrics Used in Coimbra Breast Cancer Prediction Project
+
+1. Accuracy
+   - Definition: The proportion of correctly classified instances (both positives and negatives) out of all instances.
+   - Interpretation: Measures overall correctness of the model.
+
+2. Precision (Positive Predictive Value)
+   - Definition: The ratio of true positive predictions to the total predicted positives.
+   - Interpretation: Indicates how many predicted cancer cases were actually cancer.
+
+3. Recall (Sensitivity)
+   - Definition: The ratio of true positive predictions to all actual positives.
+   - Interpretation: Measures the ability of the model to detect cancer cases.
+
+4. Specificity (True Negative Rate)
+   - Definition: The ratio of true negative predictions to all actual negatives.
+   - Interpretation: Measures how well the model identifies non-cancer cases.
+
+5. F1 Score
+   - Definition: The harmonic mean of precision and recall.
+   - Interpretation: Provides a balance between precision and recall.
+
+6. ROC-AUC (Receiver Operating Characteristic - Area Under Curve)
+   - Definition: Represents the model's ability to distinguish between classes across all classification thresholds.
+   - Interpretation: Higher AUC indicates better performance in ranking positive cases higher than negatives.
+
+7. Confusion Matrix
+   - Definition: A table showing the counts of true positives, false positives, true negatives, and false negatives.
+   - Interpretation: Helps understand types of errors made by the model.
+
+8. Classification Report
+   - Definition: A detailed summary including precision, recall, F1-score, and support for each class.
+   - Interpretation: Provides per-class performance metrics.
+

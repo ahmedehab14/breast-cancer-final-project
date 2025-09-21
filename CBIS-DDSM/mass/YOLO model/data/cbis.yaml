@@ -1,0 +1,7 @@
+# YOLO dataset config
+path: C:/Users/PC/Desktop/final project/CBIS-DDSM/mass/YOLO model/data/CBIS_YOLO_TRAIN_DATASET   # absolute path to dataset root
+train: images                    # (relative to 'path')
+val: images                      # you can point to a separate val folder later
+
+nc: 1
+names: ['lesion']
