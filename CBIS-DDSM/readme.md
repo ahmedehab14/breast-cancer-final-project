@@ -6,7 +6,7 @@ It is divided into **calcification** and **mass** lesion categories, along with 
 ---
 
 ##  Directory Structure
-
+```
 CBIS-DDSM/
 │
 ├── calc/ # Experiments and models for calcification subset
@@ -36,7 +36,7 @@ CBIS-DDSM/
 │ ├── calc/ # Calcification images
 │ └── mass/ # Mass images
 
-
+```
 
 ---
 
