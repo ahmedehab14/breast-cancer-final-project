@@ -7,23 +7,24 @@ It includes the dataset, preprocessing references, and a trained Random Forest m
 
 ## Directory Structure
 
+```
 colorectal dietry and lifestyle/
 │
 ├── data/
-│ └── crc_dataset.csv # Main dataset (dietary & lifestyle features)
+│   └── crc_dataset.csv          # Main dataset (dietary & lifestyle features)
 │
 ├── model files/
-│ ├── ref_columns.json # Reference feature columns for model input
-│ ├── rf_model.joblib # Trained Random Forest model
-│ ├── scaling_info.json # Normalization / scaling parameters
-│ └── target_name.txt # Name of target variable
+│   ├── ref_columns.json         # Reference feature columns for model input
+│   ├── rf_model.joblib          # Trained Random Forest model
+│   ├── scaling_info.json        # Normalization / scaling parameters
+│   └── target_name.txt          # Name of target variable
 │
-├── early.ipynb # Notebook with data exploration & model training
-
+├── early.ipynb                  # Notebook with data exploration & model training
+```
 
 ---
 
-##  Features
+## Features
 
 - **Dataset**: `crc_dataset.csv` contains dietary and lifestyle attributes linked to colorectal cancer risk.
 - **Preprocessing**:
